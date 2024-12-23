@@ -1,12 +1,12 @@
-# Data Centric Track
+# Data-Centric Track
 
-This is the official GitHub of the **Data Centric Track** of the Wake Vision Challenge (TBD: link to the challenge).
+This is the official GitHub of the **Data-Centric Track** of the Wake Vision Challenge (TBD: link to the challenge).
 
 It asks participants to **push the boundaries of tiny computer vision** by enhancing the data quality of the newly released [Wake Vision](https://wakevision.ai/), a person detection dataset.
 
 Participants will be able to **modify** as they want the **provided data**. 
 
-The quality increments will be evaluated by training the [mcunet-vww2 model](https://github.com/mit-han-lab/mcunet), a state-of-the-art model in person detection, on the resulting dataset.
+The quality increments will be assessed over a private dataset, after training the [mcunet-vww2 model](https://github.com/mit-han-lab/mcunet), a state-of-the-art model in person detection, on the resulting dataset.
 
 ## To Get Started
 
